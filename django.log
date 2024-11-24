@@ -1,0 +1,82 @@
+INFO 2024-11-24 21:16:50,315 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:26:29,890 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-24 21:26:51,280 log Not Found: /
+WARNING 2024-11-24 21:26:51,280 basehttp "GET / HTTP/1.1" 404 2825
+WARNING 2024-11-24 21:26:52,049 log Not Found: /apple-touch-icon-precomposed.png
+WARNING 2024-11-24 21:26:52,049 basehttp "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 2939
+WARNING 2024-11-24 21:26:52,056 log Not Found: /apple-touch-icon.png
+WARNING 2024-11-24 21:26:52,056 basehttp "GET /apple-touch-icon.png HTTP/1.1" 404 2903
+INFO 2024-11-24 21:29:32,036 autoreload /Users/derkach/Library/Mobile Documents/com~apple~CloudDocs/STUDY/#Веб програмування/BookmarkApp/bookmarkapp/bookmarkapp/urls.py changed, reloading.
+INFO 2024-11-24 21:29:32,478 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-24 21:29:37,727 log Not Found: /
+WARNING 2024-11-24 21:29:37,728 basehttp "GET / HTTP/1.1" 404 2825
+INFO 2024-11-24 21:29:49,760 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-24 21:29:52,042 log Not Found: /
+WARNING 2024-11-24 21:29:52,042 basehttp "GET / HTTP/1.1" 404 2825
+INFO 2024-11-24 21:30:31,233 autoreload /Users/derkach/Library/Mobile Documents/com~apple~CloudDocs/STUDY/#Веб програмування/BookmarkApp/bookmarkapp/bookmarkapp/urls.py changed, reloading.
+INFO 2024-11-24 21:30:31,529 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:32:47,659 autoreload /Users/derkach/Library/Mobile Documents/com~apple~CloudDocs/STUDY/#Веб програмування/BookmarkApp/bookmarkapp/bookmarkapi/urls.py changed, reloading.
+INFO 2024-11-24 21:32:48,029 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:37:32,864 autoreload /Users/derkach/Library/Mobile Documents/com~apple~CloudDocs/STUDY/#Веб програмування/BookmarkApp/bookmarkapp/bookmarkapi/urls.py changed, reloading.
+INFO 2024-11-24 21:37:33,226 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:38:17,180 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:39:11,708 autoreload /Users/derkach/Library/Mobile Documents/com~apple~CloudDocs/STUDY/#Веб програмування/BookmarkApp/bookmarkapp/bookmarkapi/views.py changed, reloading.
+INFO 2024-11-24 21:39:12,040 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:39:32,684 autoreload /Users/derkach/Library/Mobile Documents/com~apple~CloudDocs/STUDY/#Веб програмування/BookmarkApp/bookmarkapp/bookmarkapi/views.py changed, reloading.
+INFO 2024-11-24 21:39:33,004 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:40:14,178 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:41:45,704 autoreload /Users/derkach/Library/Mobile Documents/com~apple~CloudDocs/STUDY/#Веб програмування/BookmarkApp/bookmarkapp/bookmarkapi/views.py changed, reloading.
+INFO 2024-11-24 21:41:46,063 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:42:52,880 autoreload /Users/derkach/Library/Mobile Documents/com~apple~CloudDocs/STUDY/#Веб програмування/BookmarkApp/bookmarkapp/bookmarkapp/urls.py changed, reloading.
+INFO 2024-11-24 21:42:53,332 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:43:33,374 autoreload /Users/derkach/Library/Mobile Documents/com~apple~CloudDocs/STUDY/#Веб програмування/BookmarkApp/bookmarkapp/bookmarkapp/urls.py changed, reloading.
+INFO 2024-11-24 21:46:43,515 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:46:46,835 basehttp "GET / HTTP/1.1" 200 28
+INFO 2024-11-24 21:46:58,652 basehttp "GET / HTTP/1.1" 200 28
+INFO 2024-11-24 21:47:00,243 basehttp "GET /bookmarks/ HTTP/1.1" 200 28
+INFO 2024-11-24 21:47:07,498 basehttp "GET /bookmarks/ HTTP/1.1" 200 28
+WARNING 2024-11-24 21:47:20,143 log Method Not Allowed: /auth/login/
+WARNING 2024-11-24 21:47:20,144 basehttp "GET /auth/login/ HTTP/1.1" 405 5544
+INFO 2024-11-24 21:47:20,164 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-11-24 21:47:20,164 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-11-24 21:47:20,164 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-11-24 21:47:20,164 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-11-24 21:47:20,166 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-11-24 21:47:20,166 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-11-24 21:47:20,167 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-11-24 21:47:20,167 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-11-24 21:47:20,167 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-11-24 21:47:20,167 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-11-24 21:47:20,168 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-11-24 21:47:20,202 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-11-24 21:47:38,533 log Method Not Allowed: /auth/signup/
+WARNING 2024-11-24 21:47:38,533 basehttp "GET /auth/signup/ HTTP/1.1" 405 5553
+INFO 2024-11-24 21:47:53,856 basehttp "GET /bookmarks/ HTTP/1.1" 200 28
+INFO 2024-11-24 21:49:00,957 autoreload /Users/derkach/Library/Mobile Documents/com~apple~CloudDocs/STUDY/#Веб програмування/BookmarkApp/bookmarkapp/bookmarkapi/urls.py changed, reloading.
+INFO 2024-11-24 21:49:01,356 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:49:20,093 autoreload /Users/derkach/Library/Mobile Documents/com~apple~CloudDocs/STUDY/#Веб програмування/BookmarkApp/bookmarkapp/bookmarkapp/urls.py changed, reloading.
+INFO 2024-11-24 21:49:20,400 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:49:28,588 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:49:29,945 basehttp "GET / HTTP/1.1" 200 28
+INFO 2024-11-24 21:49:34,457 basehttp "GET / HTTP/1.1" 200 28
+INFO 2024-11-24 21:49:41,318 basehttp "GET /bookmarks/ HTTP/1.1" 200 28
+INFO 2024-11-24 21:53:44,632 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 21:53:45,896 basehttp "GET / HTTP/1.1" 200 28
+INFO 2024-11-24 21:53:49,526 basehttp "GET / HTTP/1.1" 200 28
+WARNING 2024-11-24 21:53:53,142 log Unauthorized: /bookmarks/
+WARNING 2024-11-24 21:53:53,143 basehttp "GET /bookmarks/ HTTP/1.1" 401 5075
+INFO 2024-11-24 21:53:53,159 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-11-24 21:53:53,164 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-11-24 21:53:53,164 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-11-24 21:53:53,164 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-11-24 21:53:53,164 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-11-24 21:53:53,164 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-11-24 21:53:53,165 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-11-24 21:53:53,165 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-11-24 21:53:53,165 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-11-24 21:53:53,166 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-11-24 21:53:53,166 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-11-24 21:53:53,199 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2024-11-24 21:54:46,350 basehttp "GET / HTTP/1.1" 200 28
+WARNING 2024-11-24 21:54:48,080 log Method Not Allowed: /auth/login/
+WARNING 2024-11-24 21:54:48,081 basehttp "GET /auth/login/ HTTP/1.1" 405 5544
